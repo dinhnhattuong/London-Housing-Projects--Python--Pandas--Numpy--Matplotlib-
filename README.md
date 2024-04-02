@@ -13,24 +13,12 @@ Using Python and libraries such as `pandas` for data wrangling and `matplotlib` 
 - **Exploratory Data Analysis (EDA)**: Uncovering patterns and insights within the data.
 - **Trend Analysis**: Calculating the growth ratios and visualizing the price trends across boroughs.
 
-## Repository Contents
-
-- `London_Housing.ipynb`: Jupyter notebook with the full analysis including code, comments, and visualizations.
-- `data/`: Directory containing the raw and processed data used in the analysis.
-- `visuals/`: Directory with generated figures and charts.
-- `requirements.txt`: A list of Python dependencies for reproducing the analysis environment.
 
 ## Conclusions
 
 The project's findings provide a clear view of the dynamic nature of the housing market in London, revealing significant price increases in several boroughs, with Croydon, Harrow, and Hillingdon leading the pack. These insights serve as a valuable resource for stakeholders like urban planners, real estate investors, and policymakers.
 
-## Usage
 
-To replicate this analysis or explore the data:
-
-1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`.
-3. Run the Jupyter notebooks.
 
 ## Contact
 
